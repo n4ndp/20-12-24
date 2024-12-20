@@ -2,7 +2,7 @@
 
 Esta galería es un pequeño rincón para guardar y compartir todos nuestros momentos especiales.
 
-## Subir Nueva Imagen
+## **Subir Nueva Imagen**
 
 Aquí te dejo los pasos para hacerlo:
 
